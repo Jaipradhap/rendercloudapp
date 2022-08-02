@@ -292,14 +292,12 @@ export default function Home() {
     <div className={styles.pageCol}>
       <Head>
         <title>Rabbit Eggs Cryto</title>
-        <meta name="description" content="Rabbit Eggs Token RXGS based on Binance Smart Chain" /> 
-        <link rel="icon" href="/basicdapp/favicon.ico" />
+        <meta name="description" content="Rabbit Eggs DeFi RXGS based on Binance Smart Chain" /> 
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
         <main className={styles.main}>
-        <Image src="/rxscoin.png" alt="rabbit eggs defi" width={20} height={20} />
-        Bsc Testnet
-        { !pizzadice && (<h3>Data-Driven Cryto Platform</h3>)}
+        { !pizzadice && (<h3>Rabbit Eggs DeFi Platform</h3>)}
  
         {/* : // productss */}
         {/* : // Dashboard */}

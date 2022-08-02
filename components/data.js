@@ -7,7 +7,7 @@ const data = {
       id: '1',
       name: TOKENNAME,
       price: RXSAMT,
-      image: '/basicdapp/rxscoin.png',
+      image: '/rxscoin.png',
     },
     // {
     //   id: '2',

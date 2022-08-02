@@ -293,7 +293,7 @@ export default function Home() {
       <Head>
         <title>Rabbit Eggs Cryto</title>
         <meta name="description" content="Rabbit Eggs Token RXGS based on Binance Smart Chain" /> 
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/basicdapp/favicon.ico" />
       </Head>
 
         <main className={styles.main}>

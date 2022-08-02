@@ -1,4 +1,5 @@
-import { RXSAMT ,TOKENNAME } from "../config/constclient";
+import { RXSAMT ,TOKENNAME  } from "../config/constclient";
+
 
 const data = {
   products: [
@@ -6,7 +7,7 @@ const data = {
       id: '1',
       name: TOKENNAME,
       price: RXSAMT,
-      image: '/rxscoin.png',
+      image: '/basicdapp/rxscoin.png',
     },
     // {
     //   id: '2',
